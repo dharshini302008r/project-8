@@ -1,1 +1,67 @@
 # project-8
+# HTML 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Marks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Student Marks Report</h1>
+
+<table>
+    <tr>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>English</th>
+        <th>Science</th>
+        <th>Maths</th>
+        <th>Total</th>
+        <th>Grade</th>
+    </tr>
+
+    <tr>
+        <td>101</td>
+        <td>Dharshini</td>
+        <td>95</td>
+        <td>88</td>
+        <td>92</td>
+        <td>275</td>
+        <td class="grade-a">A</td>
+    </tr>
+
+    <tr>
+        <td>102</td>
+        <td>saranya</td>
+        <td>78</td>
+        <td>82</td>
+        <td>75</td>
+        <td>235</td>
+        <td class="grade-b">B</td>
+    </tr>
+
+    <tr>
+        <td>103</td>
+        <td>menaka</td>
+        <td>88</td>
+        <td>91</td>
+        <td>85</td>
+        <td>264</td>
+        <td class="grade-a">A</td>
+    </tr>
+
+    <tr>
+        <td>104</td>
+        <td>priya</td>
+        <td>65</td>
+        <td>70</td>
+        <td>60</td>
+        <td>195</td>
+        <td class="grade-c">C</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
